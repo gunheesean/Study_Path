@@ -141,6 +141,8 @@ https://www.coursera.org/learn/introduction-to-algorithms
 하.. 머리폭파하는줄 알았어요 ㅋㅋㅋㅋㅋㅋ 어렵습니다. 곱씹어보며 복습해도 어렵습니다.
 파트 1은 끝까지 듣고 2는 안들었습니다.
 
+책은 바이블! Introduction to algorithm 샀습니다.
+http://book.naver.com/bookdb/book_detail.nhn?bid=7820969
 
 
 6.5 ~ 6.30 
@@ -178,6 +180,9 @@ https://www.khanacademy.org/welcome
 문제해결능력 키우기에는 competitive programming이 짱이래요!
 그래서 문제풀이 할려고 c++ 기초 공부했습니다. 여기에도 꿀 튜토리얼 >>>  https://youtu.be/Rub-JsjMhWY 
 책보고 하려면 천년만년 걸리고 이거보고 문제풀면서 중간에 모르는거 책 찾아보게요 ㅎㅎ
+
+앞으로 CLRS책 보면서 문제풀이 병행하려고 합니다. ㅎ 물론 취업을 위해 프로젝트도 해야하는데 ㅠㅠㅠㅠ
+
 문제풀이 사이트 링크와 조언에 관한 글 링크입니다.
 
 ---------------문제풀이 사이트----------
