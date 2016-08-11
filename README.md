@@ -181,24 +181,22 @@ http://book.naver.com/bookdb/book_detail.nhn?bid=10119708
 
 프로그래밍에 대한 뼈대를 잡는 공부를 할 수 있을거 같아서 책 사서 보면서 scheme이라는 언어에 대해서 알게되고 등등..
 다보진 못했습니다. 이떄 정말 조급증걸려서 빨리 취업해야한다는 생각에 이런거 볼 겨를이 없다며.. 이건 정말 나중에라도 꼭 보려구요. 
+프로그래밍 독학하신지 얼마안되신분들 기초를 탄탄하게 다지고 싶다면 이 책 추천드립니다!
 이 책에 있는 문제에 대한 답지는 요기 >>>>>>  
 http://community.schemewiki.org/?SICP-Solutions
 
 MIT 무료 강의는 요기 >>>> 
 http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/
-
-
-참고하세요! ㅎ
-
+참고하시길 ㅎㅎ
 
 그러다가 알고리즘을 공부하자 싶어서!
-
 https://www.coursera.org/learn/introduction-to-algorithms
 
-이 수업이 좋다고 하더라구요.
-파트 1,2 로 나눠져있고 1은 기초 , 2는 응용입니다.
+구글링 해보니 처음 알고리즘과 자료구조 개념잡기에 sedgwick 교수님 강의가 좋다고 추천하더라구요.
+이 교수님 강의는 파트 1,2 로 나눠져있고 1은 기초, 2는 응용입니다.
 하.. 머리폭파하는줄 알았어요 ㅋㅋㅋㅋㅋㅋ 어렵습니다. 곱씹어보며 복습해도 어렵습니다.
 파트 1은 끝까지 듣고 2는 안들었습니다.
+처음 할땐 다 어려우니까(특히나 더) 자기 머리나쁘다고 생각하지 마시길! 처음인데 다 어렵지 않을까요? ㅎㅎ
 
 책은 바이블! Introduction to algorithm 샀습니다.
 
@@ -214,12 +212,16 @@ https://opentutorials.org/course/1688
 
 여기 이분 설명 정말 친절하게 잘해주시네요.
 요즘은 무엇을 해도 웹에대한 이해는 있어야해서 찾아봤는데 여기가 시작하기 좋은것 같아요.
-
+몰랐는데 페이스북, 구글 등 유명한 스타트업회사들은 전부 웹기반회사더군요.
+웹 프로그래밍은 이제 선택이 아닌 필수인듯 합니다.
+요즘 트렌드도 응용앱에서 웹앱으로 바뀌어 가고 있다더군요.
+http://www.infoworld.com/article/3039935/application-development/21-hot-programming-trends-and-21-going-cold.html
+이런 트렌드 꼭 읽어보셔야 한다고 생각합니다.
 
 
 7.1 ~ 7.30
 
-웹 개발 트렌드를 보니 MEAN 스택이 핫하다고 하더라구요.(웹개발을 처음부터 끝까지 Java Script와 여러 모듈로 해결)
+웹 개발 트렌드를 보니 MEAN 스택이 핫하다고 하더라구요.(웹개발을 처음부터 끝까지 Java Script로, 빠른 개발, 풀스택..)
 그래서 
 http://book.naver.com/bookdb/book_detail.nhn?bid=9509675
 
@@ -229,7 +231,6 @@ Youtube에 튜토리얼들 보고 따라했습니다.
 https://youtu.be/AEE7DY2AYvI
 이걸로 시작했구요.
 https://youtu.be/lcHlywuHNwI
-
 이거 보고  따라하면서 많이배웠습니다.
 1~4편까지 있구요. 욕은 좀 많이 쓰지만 잘하더군요 ㅋㅋ
 
@@ -237,7 +238,6 @@ https://youtu.be/lcHlywuHNwI
 
 그리고 요렇게 튜토리얼하면서 MIT 이산수학 수업 들었습니다.ㅎ
 http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm
-
 
 총 25강까지 끝까지 보는데 시간이 꽤 걸렷어요.. 대부분 증명하고 머리아파서 ㅋㅋㅋ
 수학기본개념이 좀 없어서 칸 아카데미 많이 애용했습니다. 강력 추천합니다!!
@@ -249,14 +249,12 @@ https://www.khanacademy.org/welcome
 
 문제해결능력 키우기에는 competitive programming이 짱이래요!
 그래서 문제풀이 할려고 c++ 기초 공부했습니다. 
-여기에도 꿀 튜토리얼      		  >>>     	 https://youtu.be/Rub-JsjMhWY
- 
-책보고 하려면 천년만년 걸리고 이거보고 문제풀면서 중간에 모르는거 책 찾아보게요 ㅎㅎ
+기초문법 책 보면서 하려니 천년만년걸릴거 같아서 유튜브에 좋은 자료 찾아서 이거 한번보고 문제 풀이 시작했습니다.
+꿀 튜토리얼      		  >>>     	 https://youtu.be/Rub-JsjMhWY
 
-앞으로 CLRS책 보면서 문제풀이 병행하려고 합니다. ㅎ 물론 취업을 위해 프로젝트도 해야하는데 ㅠㅠㅠㅠ
+hackerearth에서 자료구조 알고리즘 연습문제들 풀고있습니다.
 
 문제풀이 사이트 링크와 조언에 관한 글 링크입니다.
-
 ---------------문제풀이 사이트----------
 https://www.hackerearth.com/
 
@@ -286,5 +284,6 @@ https://www.quora.com/What-is-the-best-strategy-to-improve-my-skills-in-competit
 
 지나고 나서 보니 처음 공부하시는 분들은 책을사서 공부하시면 처음부터 다 외우려고 하시지 마시고 처음부터 끝까지 한번 스키밍 하시고 난다음에 전체적인 내용을 한번 보시고, 구글링이나 인터넷에서 중요한게 뭔지 별로 안중요한건뭔지 찾아보시고 본격적으로 공부하시면은 시간낭비를 많이 줄이실수 있을 겁니다.
 
+그리고 하다가 좌절할 날들이 엄청 많겠지만 재밌게 즐기면은 시간도 알차게 훅훅 잘가니까 저처럼 너무 걱정하지마시고 화이팅하시길 바랍니다!
 
 
