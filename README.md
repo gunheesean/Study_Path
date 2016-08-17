@@ -160,6 +160,10 @@ http://book.naver.com/bookdb/book_detail.nhn?bid=7004651
 
 이책이 가장 유명하더군요.
 처음 1장은 하나하나 문제를 풀면서 공부했습니다.
+그 이후에는 강의 보면서 공부했습니다.
+http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/
+대략 3개월 정도 걸린거 같네요.. 중간에 좀 흐지부지해진게 있어서;;
+
 
 그리고 기본적인 네트워크 지식갖추기 위해 후니의 네트워크 책 1권 봤습니다.
 
@@ -253,6 +257,8 @@ https://www.khanacademy.org/welcome
 꿀 튜토리얼      		  >>>     	 https://youtu.be/Rub-JsjMhWY
 
 hackerearth에서 자료구조 알고리즘 연습문제들 풀고있습니다.
+알고리즘 기초 강의는 mit꺼 간간히 듣고 있습니다.
+http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/
 
 문제풀이 사이트 링크와 조언에 관한 글 링크입니다.
 ---------------문제풀이 사이트----------
