@@ -294,6 +294,15 @@ https://www.quora.com/What-is-the-best-strategy-to-improve-my-skills-in-competit
 기초 알고리즘 강의 듣고있습니다.
 http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/
 
+공부하면서 찾아보면서 드는생각이 프로그래밍 분야에 대해 잘못된 선입견을 가지고 있었다는것을 깨우쳤습니다.
+바로 collaboration !
+예전에는 소프트웨어의 규모가 작아서? 천재적인 해커가 혼자서 할 수도 있었지만은(요즘도 가능하겠지만..) 요즘은 웹기반 소프트웨어와 사용자의 규모, 사업이 커짐에 따라 한명의 머리에서 나오는 아이디어보다 여러명이서 협력했을때 시간적으로나 아이디어적으로나 더 훌륭한 개발이 가능하다고 생각합니다.
+
+그래서 저는 예전부터 오픈소스에 참여하려고 조금씩 끄적대봐도 그때는 레벨이 아니었나봅니다. ㅎㅎ
+지금도 여전히 완전완전 쌩초짜지만은 그래도 조금이라도 코드를 이해할 수 있고 깃사용법도 조금 익혀서 이제 본격적으로 오픈소스의 세계로 빠져 보려고합니다!! ㅎㅎ
+스톨먼 삼촌의 동영상이 참 많은 생각을 하게 해주더군요!
+https://youtu.be/dvwkaHBrDyI
+
 강의 들으면서 오픈소스에 본격적을 참여하기위해 깃허브를 찾아보고있습니다.
 
 
