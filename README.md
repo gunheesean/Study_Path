@@ -288,6 +288,15 @@ https://coderbyte.com/
 https://www.quora.com/What-is-the-best-strategy-to-improve-my-skills-in-competitive-programming-in-2-3-months
 
 
+8.10 ~ 8.30
+
+문제풀이를 하다가 방향을 바꿧습니다.
+기초 알고리즘 강의 듣고있습니다.
+http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/
+
+강의 들으면서 오픈소스에 본격적을 참여하기위해 깃허브를 찾아보고있습니다.
+
+
 지나고 나서 보니 처음 공부하시는 분들은 책을사서 공부하시면 처음부터 다 외우려고 하시지 마시고 책 처음부터 끝까지 한번 스키밍 하시면서 전체적인 내용을 한번 보시고, 구글링이나 인터넷에서 중요한게 뭔지 별로 안중요한건뭔지 찾아보시고 본격적으로 공부하시면은 시간낭비를 많이 줄이실수 있을 겁니다.
 
 그리고 하다가 좌절할 날들이 엄청 많겠지만 재밌게 즐기면은 시간도 알차게 훅훅 잘가니까 저처럼 너무 걱정하지마시고 화이팅하시길 바랍니다!
